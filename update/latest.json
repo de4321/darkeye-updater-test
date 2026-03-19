@@ -3,7 +3,7 @@
     "latestVersion": "1.1.2",
     "releaseNotes": "修复若干问题...",
     "package": {
-      "url": "https://github.com/de4321/darkeye-updater-test/releases/download/v1.1.2/darkeye.zip",
+      "url": "https://pub-d2ab3d3841a9494caf15937d49902f57.r2.dev/darkeye.zip",
       "sha256": "PUT_SHA256_HERE",
       "size": 123456789
     }
