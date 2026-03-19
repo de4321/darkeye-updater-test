@@ -1,0 +1,1 @@
+python updater.py --current-version 1.0.0 --main-exe DarkEye.exe --latest-json-url https://raw.githubusercontent.com/de4321/darkeye-updater-test/main/update/latest.json
