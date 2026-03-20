@@ -3,7 +3,7 @@
     "latestVersion": "1.1.2",
     "releaseNotes": "修复若干问题...",
     "package": {
-      "url": "https://pub-d2ab3d3841a9494caf15937d49902f57.r2.dev/darkeye.zip",
+      "url": "https://github.com/de4321/darkeye/releases/download/v1.1.2/DarkEye-v1.1.1.tar.zst",
       "sha256": "PUT_SHA256_HERE",
       "size": 123456789
     }
